@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/gin-gonic/gin v1.8.1
-	github.com/ybrbnf2080/genRand v1.0.3
+	github.com/ybrbnf2080/genRand v1.0.4
 )
 
 require (
